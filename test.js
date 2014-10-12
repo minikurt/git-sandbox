@@ -1,5 +1,5 @@
 function Hola () {
-	window.alert("Hola");
+	window.alert("Hola mundo");
 }
 
 Hola();
