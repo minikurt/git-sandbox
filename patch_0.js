@@ -1,5 +1,5 @@
 function informa () {
-  console.log('He terminado.');
+  console.log('He finisheado.');
 }
 
 (function ( i, callback ) {
